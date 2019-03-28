@@ -2,7 +2,7 @@
 
 Projects completed in the Data Science Career Intensive Course at Springboard.
 
-# Capstones
+# Capstones Projects
 
 ## AirBnB Review Topic Modelling
 https://github.com/daikiminaki/Springboard/tree/master/Capstone_Project_2_Airbnb_Review_Topic_Modeling
@@ -11,7 +11,7 @@ https://github.com/daikiminaki/Springboard/tree/master/Capstone_Project_2_Airbnb
 https://github.com/daikiminaki/Springboard/tree/master/Capstone_Project_1_Crunchbase_Funding_Prediction_Model
 
 
-# Machine Learning Projects
+## Machine Learning Projects
 
 ### Predicting Boston Housing Prices with Linear Regression
 https://github.com/daikiminaki/Springboard/tree/master/ML1_linear_regression_project
